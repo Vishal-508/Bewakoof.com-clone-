@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "username": "vishal",
+      "number": "9039331441",
+      "email": "vishalsharma331441@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "username": "nipendra soni",
+      "number": "45654565465",
+      "email": "nipendra@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "username": "siddharth sharma",
+      "number": "7470599394",
+      "email": "siddharth@gmail.com",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "username": "divyansh",
+      "number": "9039331441",
+      "email": "divyanshsharma2401@gmail.com",
+      "password": "1234",
+      "id": 4
+    },
+    {
+      "username": "vishal007",
+      "number": "9039331441",
+      "email": "vishalsharma331441@gmail.com",
+      "password": "7896",
+      "id": 5
+    }
+  ]
+}
